@@ -1,0 +1,19 @@
+{
+  "name": "vue3-web",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "danae-scripts start",
+    "build": "danae-scripts build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "vue": "^3.0.11"
+  },
+  "devDependencies": {
+    "danae-scripts": "^0.1.2"
+  }
+}
